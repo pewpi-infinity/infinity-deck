@@ -1,0 +1,20 @@
+{
+  "machine": "infinity-deck",
+  "title": "Infinity Deck",
+  "emoji": "\ud83c\udccf",
+  "purpose": "Each research topic is a card. Flip, stack, sort, combine cards to build new research paths.",
+  "tools": [
+    "Card Browser",
+    "Stack Builder",
+    "Combo Finder",
+    "Deck Export"
+  ],
+  "color": "#e91e63",
+  "network": "infinity-forge",
+  "connections": [
+    "infinity-crown-index",
+    "infinity-tools",
+    "smug_look",
+    "mongoose.os"
+  ]
+}
